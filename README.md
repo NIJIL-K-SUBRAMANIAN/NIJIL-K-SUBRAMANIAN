@@ -22,7 +22,8 @@
 - ⚡ Fun fact: ...
  -->
 
-  <h1 align="center">Hi 👋, I'm NIJIL KS</h1>
+<div>
+    <h1 align="center">Hi 👋, I'm NIJIL KS</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nijil-k-subramanian&label=Profile%20views&color=0e75b6&style=flat" alt="nijil-k-subramanian" /> </p>
@@ -49,3 +50,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nijil-k-subramanian&show_icons=true&locale=en" alt="nijil-k-subramanian" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nijil-k-subramanian&" alt="nijil-k-subramanian" /></p>
+
+</div>
