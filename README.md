@@ -2,12 +2,6 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
-<div>
-    <h1  align="center">
-       NIJIL KS
-    </h1>
-</div>
-
 
 <div>
     <h1 align="center">Hi 👋, I'm NIJIL KS</h1>
@@ -25,7 +19,6 @@
 
 - 📫 How to reach me **nijil4445@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
